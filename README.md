@@ -11,7 +11,7 @@ This project demonstrates various statistical and machine learning techniques us
 - **Gene-Disease Association:** Determine the statistical significance of the association between gene X and disease Y using journal article data.
 
 ### **Part 2: Time-Series Analysis**
-- **Dataset:** `homework.8.flow_data.csv`
+- **Dataset:** `flow_data.csv`
 - **Tasks:**
   - Convert time data to a datetime index.
   - Visualize data and calculate a 14-day rolling average for a specific column.
